@@ -1,3 +1,12 @@
+# Creating a docker image 
+## Installing Docker
+  - Enter the following commands to inatall and verify installation of Docker
+```bash
+sudo apt update
+sudo apt install -y docker.io
+sudo systemctl enable docker --now
+docker
+```
 ![Screenshot from 2025-03-20 10-16-37](https://github.com/user-attachments/assets/65e7f6e0-1279-4c9c-a396-a8c28f595a91)
 ![Screenshot from 2025-03-20 10-16-38](https://github.com/user-attachments/assets/0b0c03b2-61a3-45ef-85ae-1fec313684b2)
 ![Screenshot from 2025-03-20 10-18-15](https://github.com/user-attachments/assets/ceb5104e-64e6-4172-beed-5bb2067005a4)
